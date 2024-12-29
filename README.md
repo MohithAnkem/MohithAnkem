@@ -94,7 +94,7 @@
 <h3 align="left">Most Used Languages:</h3>
 <!-- Replace the username 'your-github-username' with your actual GitHub username -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="most-used-languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohithAnkem&show_icons=true&locale=en&layout=compact" alt="MohithAnkem" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivssraviraj&show_icons=true&locale=en&layout=compact" alt="ivssraviraj" /></p>
+
