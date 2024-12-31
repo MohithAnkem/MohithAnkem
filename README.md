@@ -92,9 +92,9 @@
 
 <!-- Most Used Languages -->
 <h3 align="left">Most Used Languages:</h3>
-<!-- Replace the username 'your-github-username' with your actual GitHub username -->
+<!-- Replace the username 'your-github-username' with your actual GitHub username 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohithAnkem&show_icons=true&locale=en&layout=compact" alt="MohithAnkem" />
-</p>
+</p>-->
 
 
